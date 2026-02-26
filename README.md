@@ -25,7 +25,7 @@ The system handles key business processes, including ticket sales, animal care m
 The code is compatible with most MySQL environments (e.g., DBeaver, MySQL Workbench) as well as online compilers (e.g., OneCompiler).
 Simply import the `.sql` file or copy its contents into your query execution window and run it.
 
-PO POLSKU
+------------------------------------------------------------------------------------
 
 Projekt relacyjnej bazy danych do kompleksowego zarządzania ogrodem zoologicznym. 
 System obsługuje kluczowe procesy biznesowe: sprzedaż biletów, opiekę nad zwierzętami, logistykę żywności oraz zarządzanie personelem.
